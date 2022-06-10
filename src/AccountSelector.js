@@ -1,15 +1,15 @@
 import React, { useState, useEffect } from 'react'
 import { CopyToClipboard } from 'react-copy-to-clipboard'
 
-import {
-  Menu,
-  Button,
-  Dropdown,
-  Container,
-  Icon,
-  Image,
-  Label,
-} from 'semantic-ui-react'
+// import {
+//   Menu,
+//   Button,
+//   Dropdown,
+//   Container,
+//   Icon,
+//   Image,
+//   Label,
+// } from 'semantic-ui-react'
 
 import { useSubstrate, useSubstrateState } from './substrate-lib'
 
